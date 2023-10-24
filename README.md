@@ -1,2 +1,2 @@
 # Data-Science
-This is all you need to know about the science of data
+This is all you need to know about the science of data, including its applications
